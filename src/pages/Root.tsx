@@ -1,7 +1,14 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React from "react";
+import Button from "../components/Button";
 
-const root = () => {
-  return <div>root</div>;
+const Root = () => {
+  return (
+    <>
+      <h1>root</h1>
+      <Button path="/about">about</Button>
+    </>
+  );
 };
 
-export default root;
+export default Root;
