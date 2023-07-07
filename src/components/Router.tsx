@@ -16,7 +16,7 @@ const Router = ({ children }: RouterProps) => {
   useEffect(() => {
     setPathName(window.location.pathname);
 
-    window.addEventListener("popstate", (e: PopStateEvent) => {
+    window.addEventListener("popstate", () => {
       setPathName(window.location.pathname);
     });
   }, []);

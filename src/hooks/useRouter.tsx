@@ -1,5 +1,3 @@
-import React from "react";
-
 const useRouter = () => {
   const push = (path: string | URL | null) => {
     history.pushState({}, "", path);
