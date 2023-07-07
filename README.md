@@ -1,4 +1,13 @@
 # Wanted-Challenge-Nextjs
+## 과제 실행 방법
+1. git clone
+2. cd root
+3. yarn install
+4. yarn dev
+
+## 과제 링크
+https://lean-mahogany-686.notion.site/1-4-00a9f0c9a42641d18ddc989ceb412f1d
+
 ## 과제 구현 설명
 
 #### **src/components/Router.tsx**
@@ -123,5 +132,6 @@ useRouter 커스텀 훅의 push를 사용하여 props로 받아오는 path를 �
 ## 과제 구현 화면
 ![image](https://github.com/KanghoYoo/Wanted-Challenge-Nextjs/assets/96409594/dacf5b63-e18b-4045-b07e-95860c781669)
 
-![image](https://github.com/KanghoYoo/Wanted-Challenge-Nextjs/assets/96409594/dfe4b14b-5d1b-43f5-8ae6-d045bd5c0ba6)
+![image](https://github.com/KanghoYoo/Wanted-Challenge-Nextjs/assets/96409594/81db77da-6601-4396-9118-78f0e0c1bd70)
+
 
