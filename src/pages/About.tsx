@@ -5,7 +5,7 @@ const About = () => {
   return (
     <>
       <h1>about</h1>
-      <Button path="/">go back</Button>
+      <Button path="/">go main</Button>
     </>
   );
 };
