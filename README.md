@@ -120,3 +120,8 @@ children과 path를 props로 받는 재사용이 가능한 버튼 컴포넌트�
 
 useRouter 커스텀 훅의 push를 사용하여 props로 받아오는 path를 버튼이 클릭하였을때 해당 경로로 가도록 함수를 만들었습니다.
 
+## 과제 구현 화면
+![image](https://github.com/KanghoYoo/Wanted-Challenge-Nextjs/assets/96409594/dacf5b63-e18b-4045-b07e-95860c781669)
+
+![image](https://github.com/KanghoYoo/Wanted-Challenge-Nextjs/assets/96409594/dfe4b14b-5d1b-43f5-8ae6-d045bd5c0ba6)
+
